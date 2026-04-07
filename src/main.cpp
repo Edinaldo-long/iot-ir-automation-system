@@ -26,7 +26,7 @@
     HARDWARE:
       GPIO 4  -> LED IR  (resistor 100-220 ohm)
       GPIO 18 -> Receptor IR (TSOP1738 / VS1838B)
-      GPIO 23 -> DHT22 DATA (resistor 10k para 3.3V)
+      
 
     PRIORIDADE DO SINAL AC:
       1. RAW capturado (hasRaw) - enviado 3 vezes
