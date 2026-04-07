@@ -10,9 +10,8 @@ O sistema foi projetado com a seguinte pinagem no **ESP32 DevKit V1**:
 
 | Componente | Pino (GPIO) | Função |
 | :--- | :--- | :--- |
-| **Emissor IR** | GPIO 4 | Envio de comandos |
+| **Emissor IR** | GPIO 4 | Envio de comandos (Transmissão) |
 | **Receptor IR** | GPIO 18 | Captura de sinais (Learning Mode) |
-| **Sensor DHT22** | GPIO 23 | Monitoramento de temperatura |
 
 
 
@@ -53,7 +52,7 @@ Em vez de depender apenas de sinais RAW (que consomem muita memória), o sistema
     </td>
     <td valign="top" style="padding-left: 20px;">
       <strong>Edinaldo Santos de Almeida</strong><br>
-      <em>Técnico em Desenvolvimento de Sistemas (SENAC Franca SP)</em><br>
+      <em>Técnico em Desenvolvimento de Sistemas (SENAC Franca SP)</em><br><br>
       Foco em Programação Back-End e Sistemas Embarcados IoT
     </td>
   </tr>
