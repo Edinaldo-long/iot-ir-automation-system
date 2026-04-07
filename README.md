@@ -4,8 +4,8 @@ O Desafio: Muitos sistemas de automação falham devido a interferências de luz
 A Solução: Um dispositivo inteligente que utiliza Estatística (Desvio Padrão) para filtrar ruídos e garantir 100% de precisão no acionamento de aparelhos.
 Sistema de controle remoto universal baseado em **ESP32**, desenvolvido para automação de dispositivos infravermelhos (Ar-condicionado, TVs, Ventiladores). Este projeto destaca-se pelo uso de algoritmos estatísticos para garantir a fidelidade do sinal capturado.
 
-🔌 Arquitetura de Hardware
-Para que um recrutador entenda o projeto físico rapidamente, o sistema foi projetado com a seguinte pinagem no ESP32 DevKit V1:
+#🔌 Arquitetura de Hardware
+O sistema foi projetado com a seguinte pinagem no ESP32 DevKit V1:
 
 Componente,Pino (GPIO),Função
 Emissor IR,GPIO 4,Envio de comandos
