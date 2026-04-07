@@ -30,9 +30,6 @@ Em vez de depender apenas de sinais RAW (que consomem muita memória), o sistema
 
 ---
 
-## 👨‍💻 Sobre o Desenvolvedor
-
----
 
 ## 👨‍💻 Sobre o Desenvolvedor
 
