@@ -32,15 +32,24 @@ Em vez de depender apenas de sinais RAW (que consomem muita memória), o sistema
 
 ## 👨‍💻 Sobre o Desenvolvedor
 
-<table border="0">
+---
+
+## Sobre o Desenvolvedor
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/00bdbcbd-e331-4104-bb82-f39c09073672" width="130px" style="border-radius: 50%;" alt="Edinaldo Santos">
+    <td width="150px" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/00bdbcbd-e331-4104-bb82-f39c09073672" alt="Edinaldo Santos" width="130" height="130" style="border-radius: 50%; display: block;">
     </td>
-    <td>
-      <strong>Edinaldo Santos de Almeida</strong><br>
-      <em>Técnico em Desenvolvimento de Sistemas (SENAC Franca)</em><br>
-      Foco em Programação Back-End e Sistemas Embarcados IoT
+    <td valign="top" style="padding-left: 20px;">
+      <h3 style="margin-top: 0;">Edinaldo Santos de Almeida</h3>
+      <p style="margin: 0;">
+        Técnico em Desenvolvimento de Sistemas<br>
+        <strong>SENAC Franca/SP</strong>
+      </p>
+      <p style="margin-top: 15px;">
+        Foco em Programação Back-End e Sistemas Embarcados IoT
+      </p>
     </td>
   </tr>
 </table>
