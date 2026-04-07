@@ -40,7 +40,7 @@ Em vez de depender apenas de sinais RAW (que consomem muita memória), o sistema
     </td>
     <td>
       <strong>Edinaldo Santos de Almeida</strong><br>
-      <em>Técnico em Desenvolvimento de Sistemas (SENAC Franca)</em><br>
+      <em>Técnico em Desenvolvimento de Sistemas (SENAC Franca SP)</em><br>
       Foco em Programação Back-End e Sistemas Embarcados IoT
     </td>
   </tr>
