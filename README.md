@@ -28,8 +28,22 @@ Em vez de depender apenas de sinais RAW (que consomem muita memória), o sistema
 - `include/`: Definições de hardware e cabeçalhos.
 - `lib/`: Bibliotecas customizadas de protocolos AC.
 
+---
+
 ## 👨‍💻 Sobre o Desenvolvedor
-**Edinaldo Santos de Almeida** *Estudante de Desenvolvimento de Sistemas -  *Foco em Programação Back-End e Sistemas Embarcados* *Estudante no SENAC Franca/SP*
+
+<table border="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/00bdbcbd-e331-4104-bb82-f39c09073672" width="130px" style="border-radius: 50%;" alt="Edinaldo Santos">
+    </td>
+    <td>
+      <strong>Edinaldo Santos de Almeida</strong><br>
+      <em>Técnico em Desenvolvimento de Sistemas (SENAC Franca)</em><br>
+      Foco em Programação Back-End e Sistemas Embarcados IoT
+    </td>
+  </tr>
+</table>
 
 ---
 > *Este repositório serve como demonstração de competências em integração de Hardware/Software, tratamento de sinais e desenvolvimento de APIs em sistemas embarcados.*
